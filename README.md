@@ -1,7 +1,4 @@
-# Whole_Lotta_Rosie
-
-Team Members: Michael Padilla
-
-Baseball cards are cooler (branch test)
-
+#Whole_Lotta_Rosie
+____
 Team Members: Michael Padilla, Dennis O'Leary, & Rosarys Esquilin
+____
