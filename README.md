@@ -1,14 +1,14 @@
 # Whole_Lotta_Rosie
 ____
 
-#Team Members:
+# Team Members:
 
 Michael Padilla,
 Dennis O'Leary,
 & Rosarys Esquilin
 ____
 
-#Predicting Gentrification Using Data
+# Predicting Gentrification Using Data
 
 > Pulled data from:
   Census
@@ -20,4 +20,4 @@ ____
   Home Value,
   Income,
   & Bachelor Degree
-  
+____  
