@@ -1,5 +1,5 @@
 # Enter your API keys
 
-api_key = "6bdd8b5aa5fb87c3bc4a34acc608be8e6e57f4cd"
+api_key = "2ef0ced1f472c87342b1a9b493807f8236cfbe42"
 
-gkey = "AIzaSyBrRL_DAZ6FWpAQE7S_tadC2EyRe0V12GY"
+gkey = "AIzaSyDNp_dOpD7Wy_1OeIEYraz5g8SZlOo4Els"
