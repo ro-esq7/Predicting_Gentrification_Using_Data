@@ -1,4 +1,4 @@
-# Predicting_Gentrification_Using
+# Predicting Gentrification Using Data
 ____
 
 # Team Members:
